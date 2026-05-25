@@ -1,0 +1,53 @@
+name: farmmate
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # 1. UI Tools & Icons
+  cupertino_icons: ^1.0.8
+  font_awesome_flutter: ^10.7.0
+  google_fonts: ^6.1.0
+
+  # 2. Local Database & Storage
+  sqflite: ^2.3.3+1
+  path: ^1.9.0
+  shared_preferences: ^2.2.2
+
+  # 3. Camera & Images
+  image_picker: ^1.1.2
+
+  # 4. AI Voice & Speech
+  speech_to_text: ^7.3.0
+  flutter_tts: ^4.0.2
+
+  # 5. Permissions & Notifications
+  permission_handler: ^11.3.1
+  flutter_local_notifications: ^17.2.2
+  timezone: ^0.9.2
+
+  # 6. Utilities
+  intl: ^0.19.0
+  http: ^1.2.2
+  google_generative_ai: ^0.4.7
+  record: ^6.2.1
+  path_provider: ^2.1.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Uncomment this when you are ready to add your farm images
+  # assets:
+  #   - assets/images/
