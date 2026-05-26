@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "484519453961",
+    "project_id": "farmmate-412ae",
+    "storage_bucket": "farmmate-412ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484519453961:android:ec4d0e52184fd0e9001fd8",
+        "android_client_info": {
+          "package_name": "com.nextgenfix.farmmate.farmmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484519453961-9gn72gkr48j03o7kakgoqh3nqrcas1te.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nextgenfix.farmmate.farmmate",
+            "certificate_hash": "076ce7cf9c062788bfd7cede3d23ad677bb7a400"
+          }
+        },
+        {
+          "client_id": "484519453961-immpu4lquhnkqvjcpjfoeqmpj94uj6an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJIRVtIwby2qtTnyng-pwuiSXdhqrGZX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484519453961-immpu4lquhnkqvjcpjfoeqmpj94uj6an.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
